@@ -106,11 +106,6 @@
 
 ---
 
-## 📈 GitHub Activity & Stats
-![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akchemp&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akchemp&layout=compact&theme=tokyonight)
-
----
 
 ## 🕒 Coding Activity (Live)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akchemp&theme=tokyonight)
@@ -120,6 +115,5 @@
 
 ## 🧩 Contact
 📧 **[ak.chemp@gmail.com](mailto:ak.chemp@gmail.com)**  
-🌐 **[linkedin.com/in/andrey-krylov](https://linkedin.com/in/andrey-krylov)**  
 🐍 Python • SQL • ETL • Data Engineering • AI Systems
 
