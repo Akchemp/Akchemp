@@ -111,8 +111,3 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akchemp&theme=tokyo-night)
 
 ---
-
-## 🧩 Contact
-📧 **[ak.chemp@gmail.com](mailto:ak.chemp@gmail.com)**  
-🐍 Python • SQL • ETL • Data Engineering • AI Systems
-
