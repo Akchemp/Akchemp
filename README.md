@@ -108,7 +108,6 @@
 
 
 ## 🕒 Coding Activity (Live)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akchemp&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akchemp&theme=tokyo-night)
 
 ---
