@@ -111,8 +111,7 @@
 ## 📫 Контакты  
 
 📧 [ak.chemp@gmail.com](mailto:ak.chemp@gmail.com)  
-🌐 [github.com/Akchemp](https://github.com/Akchemp)  
-💼 В процессе подготовки к **ASTON Internship (Data Engineering)**  
+🌐 [github.com/Akchemp](https://github.com/Akchemp)    
 
 ---
 
