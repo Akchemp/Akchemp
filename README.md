@@ -1,4 +1,4 @@
-# 🧠 Андрей Крылов — Junior Data Engineer  
+# 🧠 Андрей Крылов — Middle Data Engineer  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" />
